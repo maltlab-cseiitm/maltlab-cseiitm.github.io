@@ -1020,6 +1020,14 @@ ul.link-list li {
   padding: 6px 0 6px 0;
   /* list-style:none; */
 }
+
+ul.link-list-students li {
+  margin: 0;
+  padding: 6px 0 0 0;
+  font-size: 2rem;
+  /* list-style:none; */
+}
+
 footer {
   background: #14a085;
 }
