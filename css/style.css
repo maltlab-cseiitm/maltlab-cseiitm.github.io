@@ -1722,6 +1722,10 @@ article .align-right {
     height: 20px;
     font-size: 14px;
   }
+
+  .col-md-b {
+    display: none;
+  }
 }
 
 .box-area:before {
